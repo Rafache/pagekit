@@ -5,4 +5,4 @@ if (!isset($_SERVER['HTTP_MOD_REWRITE'])) {
 }
 
 
-require_once __DIR__.'/pagekit.php';
+require_nce __DIR__.'/pagekit.php';
